@@ -9,3 +9,7 @@ let c = a++;
 let d = ++c;
 let e = ++d + d++ + d;
 ```
+
+### Homework Finished 21/06/2567
+- นายวัชรพล แดงเปี่ยม (มายด์)
+- Online-CC#18
